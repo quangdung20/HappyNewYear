@@ -18,4 +18,4 @@ let x = setInterval(function stime(){
         clearInterval(x);
         window.location.href="intro.html"
     }
-}, 0.1);
+}, 1);
